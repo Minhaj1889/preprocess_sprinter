@@ -1,8 +1,8 @@
 # Preprocessing Text Python Package
 
-#### Course Link: https://bit.ly/intro_nlp
 
-This python package is prepared by YourName.
+
+This python package is prepared by Minhajur.
 
 Dependencies
 ```
@@ -14,7 +14,7 @@ pip install textblob==0.15.3
 
 Install
 
-`pip install git+https://github.com/laxmimerit/preprocess_kgptalkie.git --upgrade --force-reinstall`
+`pip install git+https://github.com/Minhaj1889/preprocess_sprinter.git --upgrade --force-reinstall`
 
 Uninstall
 
