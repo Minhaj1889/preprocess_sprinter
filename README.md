@@ -64,9 +64,9 @@ Note: Avoid to use `make_base` and `spelling_correction` for very large dataset 
 #### Extra
 
 ```
-x = 'lllooooovvveeee youuuu'
+x = 'lllooooovvveeee thiiiisss movieeeeee'
 x = re.sub("(.)\\1{2,}", "\\1", x)
 print(x)
 ---
-love you
+love this movie
 ```
