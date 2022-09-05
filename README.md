@@ -2,7 +2,7 @@
 
 
 
-This python package is prepared by Minhajur.
+This python package is prepared by Sprinter.
 
 Dependencies
 ```
@@ -18,7 +18,7 @@ Install
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocess_sprinter`
 
 #### How to use it for preprocessing
 You have to have installed spacy and python3 to make it work.
